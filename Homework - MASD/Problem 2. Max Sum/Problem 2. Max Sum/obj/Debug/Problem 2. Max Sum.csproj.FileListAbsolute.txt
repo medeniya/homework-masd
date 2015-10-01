@@ -1,0 +1,6 @@
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 2. Max Sum\Problem 2. Max Sum\bin\Debug\Problem_2.Max_Sum.exe.config
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 2. Max Sum\Problem 2. Max Sum\bin\Debug\Problem_2.Max_Sum.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 2. Max Sum\Problem 2. Max Sum\bin\Debug\Problem_2.Max_Sum.pdb
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 2. Max Sum\Problem 2. Max Sum\obj\Debug\Problem 2. Max Sum.csprojResolveAssemblyReference.cache
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 2. Max Sum\Problem 2. Max Sum\obj\Debug\Problem_2.Max_Sum.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 2. Max Sum\Problem 2. Max Sum\obj\Debug\Problem_2.Max_Sum.pdb

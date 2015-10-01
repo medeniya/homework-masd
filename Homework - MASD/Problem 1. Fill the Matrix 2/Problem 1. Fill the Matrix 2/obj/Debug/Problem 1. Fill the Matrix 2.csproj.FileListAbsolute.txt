@@ -1,0 +1,5 @@
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 2\Problem 1. Fill the Matrix 2\bin\Debug\Problem_1.Fill_the_Matrix_2.exe.config
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 2\Problem 1. Fill the Matrix 2\bin\Debug\Problem_1.Fill_the_Matrix_2.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 2\Problem 1. Fill the Matrix 2\bin\Debug\Problem_1.Fill_the_Matrix_2.pdb
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 2\Problem 1. Fill the Matrix 2\obj\Debug\Problem_1.Fill_the_Matrix_2.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 2\Problem 1. Fill the Matrix 2\obj\Debug\Problem_1.Fill_the_Matrix_2.pdb

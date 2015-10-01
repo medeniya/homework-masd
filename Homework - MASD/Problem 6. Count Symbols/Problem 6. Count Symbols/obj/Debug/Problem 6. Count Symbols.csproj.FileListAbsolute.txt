@@ -1,0 +1,6 @@
+E:\C# Projects\Homework - MASD\Problem 6. Count Symbols\Problem 6. Count Symbols\bin\Debug\Problem_6.Count_Symbols.exe.config
+E:\C# Projects\Homework - MASD\Problem 6. Count Symbols\Problem 6. Count Symbols\bin\Debug\Problem_6.Count_Symbols.exe
+E:\C# Projects\Homework - MASD\Problem 6. Count Symbols\Problem 6. Count Symbols\bin\Debug\Problem_6.Count_Symbols.pdb
+E:\C# Projects\Homework - MASD\Problem 6. Count Symbols\Problem 6. Count Symbols\obj\Debug\Problem 6. Count Symbols.csprojResolveAssemblyReference.cache
+E:\C# Projects\Homework - MASD\Problem 6. Count Symbols\Problem 6. Count Symbols\obj\Debug\Problem_6.Count_Symbols.exe
+E:\C# Projects\Homework - MASD\Problem 6. Count Symbols\Problem 6. Count Symbols\obj\Debug\Problem_6.Count_Symbols.pdb

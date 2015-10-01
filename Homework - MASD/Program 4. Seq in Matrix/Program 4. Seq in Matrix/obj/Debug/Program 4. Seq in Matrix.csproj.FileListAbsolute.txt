@@ -1,0 +1,7 @@
+C:\Users\Bobby\Desktop\Homework - MASD\Program 4. Seq in Matrix\Program 4. Seq in Matrix\bin\Debug\Program_4.Seq_in_Matrix.exe.config
+E:\C# Projects\Homework - MASD\Program 4. Seq in Matrix\Program 4. Seq in Matrix\bin\Debug\Program_4.Seq_in_Matrix.exe.config
+E:\C# Projects\Homework - MASD\Program 4. Seq in Matrix\Program 4. Seq in Matrix\bin\Debug\Program_4.Seq_in_Matrix.exe
+E:\C# Projects\Homework - MASD\Program 4. Seq in Matrix\Program 4. Seq in Matrix\bin\Debug\Program_4.Seq_in_Matrix.pdb
+E:\C# Projects\Homework - MASD\Program 4. Seq in Matrix\Program 4. Seq in Matrix\obj\Debug\Program 4. Seq in Matrix.csprojResolveAssemblyReference.cache
+E:\C# Projects\Homework - MASD\Program 4. Seq in Matrix\Program 4. Seq in Matrix\obj\Debug\Program_4.Seq_in_Matrix.exe
+E:\C# Projects\Homework - MASD\Program 4. Seq in Matrix\Program 4. Seq in Matrix\obj\Debug\Program_4.Seq_in_Matrix.pdb

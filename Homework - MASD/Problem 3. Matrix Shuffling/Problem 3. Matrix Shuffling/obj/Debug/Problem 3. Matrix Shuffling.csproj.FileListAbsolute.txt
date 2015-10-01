@@ -1,0 +1,9 @@
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\bin\Debug\Problem_3.Matrix_Shuffling.exe.config
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\bin\Debug\Problem_3.Matrix_Shuffling.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\bin\Debug\Problem_3.Matrix_Shuffling.pdb
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\obj\Debug\Problem 3. Matrix Shuffling.csprojResolveAssemblyReference.cache
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\obj\Debug\Problem_3.Matrix_Shuffling.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\obj\Debug\Problem_3.Matrix_Shuffling.pdb
+E:\C# Projects\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\bin\Debug\Problem_3.Matrix_Shuffling.exe.config
+E:\C# Projects\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\obj\Debug\Problem_3.Matrix_Shuffling.exe
+E:\C# Projects\Homework - MASD\Problem 3. Matrix Shuffling\Problem 3. Matrix Shuffling\obj\Debug\Problem_3.Matrix_Shuffling.pdb

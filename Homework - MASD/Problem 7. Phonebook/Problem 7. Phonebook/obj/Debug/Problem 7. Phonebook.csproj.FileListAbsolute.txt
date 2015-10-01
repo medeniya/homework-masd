@@ -1,0 +1,6 @@
+E:\C# Projects\Homework - MASD\Problem 7. Phonebook\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe.config
+E:\C# Projects\Homework - MASD\Problem 7. Phonebook\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe
+E:\C# Projects\Homework - MASD\Problem 7. Phonebook\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.pdb
+E:\C# Projects\Homework - MASD\Problem 7. Phonebook\Problem 7. Phonebook\obj\Debug\Problem 7. Phonebook.csprojResolveAssemblyReference.cache
+E:\C# Projects\Homework - MASD\Problem 7. Phonebook\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.exe
+E:\C# Projects\Homework - MASD\Problem 7. Phonebook\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.pdb

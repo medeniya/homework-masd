@@ -1,0 +1,6 @@
+E:\C# Projects\Homework - MASD\Problem 5. Collect the Coins\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe.config
+E:\C# Projects\Homework - MASD\Problem 5. Collect the Coins\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe
+E:\C# Projects\Homework - MASD\Problem 5. Collect the Coins\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.pdb
+E:\C# Projects\Homework - MASD\Problem 5. Collect the Coins\Problem 5. Collect the Coins\obj\Debug\Problem 5. Collect the Coins.csprojResolveAssemblyReference.cache
+E:\C# Projects\Homework - MASD\Problem 5. Collect the Coins\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.exe
+E:\C# Projects\Homework - MASD\Problem 5. Collect the Coins\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.pdb

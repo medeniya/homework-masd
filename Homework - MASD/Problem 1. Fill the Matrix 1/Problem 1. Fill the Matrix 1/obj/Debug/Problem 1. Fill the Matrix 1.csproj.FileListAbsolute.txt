@@ -1,0 +1,6 @@
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 1\Problem 1. Fill the Matrix 1\bin\Debug\Problem_1.Fill_the_Matrix_1.exe.config
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 1\Problem 1. Fill the Matrix 1\bin\Debug\Problem_1.Fill_the_Matrix_1.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 1\Problem 1. Fill the Matrix 1\bin\Debug\Problem_1.Fill_the_Matrix_1.pdb
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 1\Problem 1. Fill the Matrix 1\obj\Debug\Problem 1. Fill the Matrix 1.csprojResolveAssemblyReference.cache
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 1\Problem 1. Fill the Matrix 1\obj\Debug\Problem_1.Fill_the_Matrix_1.exe
+C:\Users\Bobby\Desktop\Homework - MASD\Problem 1. Fill the Matrix 1\Problem 1. Fill the Matrix 1\obj\Debug\Problem_1.Fill_the_Matrix_1.pdb

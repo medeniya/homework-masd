@@ -1,0 +1,6 @@
+E:\C# Projects\Homework - MASD\Problem 8. Night Life\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe.config
+E:\C# Projects\Homework - MASD\Problem 8. Night Life\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe
+E:\C# Projects\Homework - MASD\Problem 8. Night Life\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.pdb
+E:\C# Projects\Homework - MASD\Problem 8. Night Life\Problem 8. Night Life\obj\Debug\Problem 8. Night Life.csprojResolveAssemblyReference.cache
+E:\C# Projects\Homework - MASD\Problem 8. Night Life\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.exe
+E:\C# Projects\Homework - MASD\Problem 8. Night Life\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.pdb
